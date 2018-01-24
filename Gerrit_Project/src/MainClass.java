@@ -13,7 +13,7 @@ class Krishnamurthy
     }
     static boolean isKrishnamurthy(int n)
     {
-        int sum = 0;
+        int sum = 0;   // Comment 123
  
         int temp = n;
         while (temp != 0)
