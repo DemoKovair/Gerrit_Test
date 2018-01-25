@@ -1,5 +1,3 @@
-//.............................
-
 class Krishnamurthy
 {
     static int factorial(int n)
